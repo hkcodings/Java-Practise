@@ -1,0 +1,9 @@
+# Compiled Java files
+*.class
+
+# Build output
+bin/
+
+# VS Code workspace files (optional)
+# Uncomment the next line if you don't want to share VS Code settings
+# .vscode/
