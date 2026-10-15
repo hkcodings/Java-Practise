@@ -1,65 +1,84 @@
-<<<<<<< HEAD
-## Getting Started
+# Java DSA Workout ☕💻
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Welcome to my **Java DSA Workout** repository! This repository contains my Java practice programs and solutions as I learn and improve my problem-solving skills and strengthen my understanding of Data Structures and Algorithms (DSA).
 
-## Folder Structure
+## 🎯 Goals
 
-The workspace contains two folders by default, where:
+- Strengthen Java programming fundamentals.
+- Practice problem-solving and logical thinking.
+- Learn and implement Data Structures and Algorithms.
+- Write clean, readable, and efficient code.
+- Maintain consistent coding practice and track my progress.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## 📂 Project Structure
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+```text
+Java-DSA-Workout/
+├── .vscode/       # VS Code configuration
+├── lib/           # External libraries, if required
+├── src/           # Java source files
+├── bin/           # Compiled class files (generated locally)
+├── .gitignore     # Files excluded from Git
+└── README.md      # Project documentation
+```
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## 🛠️ Technologies Used
 
-## Dependency Management
+- **Language:** Java
+- **IDE:** Visual Studio Code
+- **Version Control:** Git and GitHub
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
-=======
-# Java DSA
+## 🚀 How to Run
 
-This repository contains my Java learning journey for Data Structures & Algorithms.
+1. Clone this repository:
 
-## Goals
+   ```bash
+   git clone https://github.com/hkcodings/Java-Practise.git
+   ```
 
-- Learn Java
-- Master DSA
-- Solve 500+ LeetCode problems
-- Prepare for Product-Based Company Interviews
+2. Open the project in Visual Studio Code.
 
-## Topics
+3. Make sure you have the Java Development Kit (JDK) installed.
 
-- Java Basics
-- Arrays
-- Strings
-- Linked List
-- Stack
-- Queue
-- Trees
-- Graphs
+4. Open the desired `.java` file inside `src/`.
+
+5. Run the program using the VS Code Java extension or the terminal.
+
+To compile and run a Java file from the project root, for example:
+
+```bash
+javac -d bin src/YourFile.java
+java -cp bin YourFile
+```
+
+Replace `YourFile` with the class name containing the `main` method.
+
+## 📚 Topics
+
+- Java Fundamentals
+- Variables, Data Types, and Operators
+- Conditional Statements and Loops
+- Methods and Recursion
+- Arrays and Strings
+- Object-Oriented Programming
+- Searching and Sorting
+- Linked Lists
+- Stacks and Queues
+- Trees and Graphs
+- Hashing
 - Dynamic Programming
-- Greedy
-- Backtracking
-- Bit Manipulation
+- Problem-Solving Practice
 
-## Platforms
+*Topics will be added as I progress through my learning journey.*
 
-- LeetCode
-- Codeforces
-- GeeksforGeeks
+## 📈 Progress
 
-## Progress
+This repository will continue to grow as I solve more problems, explore new concepts, and improve my coding skills.
 
-- [ ] Java Basics
-- [ ] Arrays
-- [ ] Strings
-- [ ] Binary Search
-- [ ] Linked List
-- [ ] Stack
-- [ ] Queue
-- [ ] Trees
-- [ ] Graphs
-- [ ] Dynamic Programming
->>>>>>> ec3b2fc829278cfd418b8f435d7da5e846b62e71
+## 🤝 Connect
+
+GitHub: [@hkcodings](https://github.com/hkcodings)
+
+---
+
+**Consistency is the key to mastering DSA. One problem at a time! 🚀**
